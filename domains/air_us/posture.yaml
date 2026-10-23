@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "metadata": {
+    "review_status": "verified_against_primary_sources_2026-10-08",
+    "interval_semantics": "half_open_start_inclusive_end_exclusive",
+    "empty_lookup_semantics": "checked_and_no_notice_in_force",
+    "principle": "Enforcement discretion changes DOT posture; it does not extinguish the underlying Part 260 obligation.",
+    "refresh_required_from": "2027-07-08",
+    "verified_policy_gap": {
+      "effective_from": "2026-07-01",
+      "effective_to_exclusive": "2026-07-07",
+      "verification_status": "verified_2026-10-08",
+      "verification_note": "Primary-source review found no published renumbering-specific pause from July 1 through July 6. This means no generally applicable carve-out was published for the interval; it is not a prediction that DOT would certainly bring an enforcement action."
+    }
+  },
+  "notices": [
+    {
+      "notice_id": "FR-2025-22140",
+      "document_number": "2025-22140",
+      "title": "Airline Refunds and Other Consumer Protections",
+      "publication_date": "2025-12-05",
+      "payload_file": "data/rules/sources/federal_register_2025-22140.json",
+      "text_file": "data/rules/sources/federal_register_2025-22140.txt",
+      "required_text": [
+        "As of December 5, 2025, the Department is pausing until June 30, 2026",
+        "until June 30, 2026"
+      ],
+      "authority": "enforcement_policy",
+      "effect": "enforcement_paused",
+      "sections": ["260.6", "260.9", "399.80(l)"],
+      "scope": "renumbered_flight_no_significant_change",
+      "effective_from": "2025-12-05",
+      "effective_to_exclusive": "2026-07-01",
+      "source_url": "https://www.federalregister.gov/documents/2025/12/05/2025-22140/airline-refunds-and-other-consumer-protections",
+      "date_basis": "As of publication, pausing until June 30, 2026."
+    },
+    {
+      "notice_id": "FR-2026-13675",
+      "document_number": "2026-13675",
+      "title": "Airline Refunds and Other Consumer Protections",
+      "publication_date": "2026-07-07",
+      "payload_file": "data/rules/sources/federal_register_2026-13675.json",
+      "text_file": "data/rules/sources/federal_register_2026-13675.txt",
+      "required_text": [
+        "As of July 7, 2026",
+        "expiring on July 7, 2027"
+      ],
+      "authority": "enforcement_policy",
+      "effect": "enforcement_paused",
+      "sections": ["260.6", "260.9", "399.80(l)"],
+      "scope": "renumbered_flight_no_significant_change",
+      "effective_from": "2026-07-07",
+      "effective_to_exclusive": "2027-07-08",
+      "source_url": "https://www.federalregister.gov/documents/2026/07/07/2026-13675/airline-refunds-and-other-consumer-protections",
+      "date_basis": "As of publication, extended for one year and expiring July 7, 2027."
+    }
+  ]
+}
