@@ -1,0 +1,27 @@
+name: Rerouted CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  quality:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with:
+          enable-cache: true
+      - name: Install locked dependencies
+        run: uv sync --frozen --extra dev --extra data
+      - name: Lint
+        run: uv run ruff check .
+      - name: Type check
+        run: uv run mypy api core domains ui scripts local_app
+      - name: Tests and regression gates
+        run: uv run pytest
