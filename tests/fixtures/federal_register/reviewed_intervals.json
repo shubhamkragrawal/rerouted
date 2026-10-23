@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "fixture_notice": "SYNTHETIC PARSER FIXTURE; NOT AN AUTHORITATIVE SOURCE SNAPSHOT",
+  "interval_semantics": "half_open_start_inclusive_end_exclusive",
+  "refresh_required_from": "2027-07-08",
+  "verified_policy_gap": {
+    "effective_from": "2026-07-01",
+    "effective_to_exclusive": "2026-07-07",
+    "verification_status": "synthetic_fixture_representing_reviewed_decision",
+    "verification_note": "Synthetic parser fixture preserving the reviewed conclusion that no generally applicable renumbering-specific notice is in force from July 1 through July 6, 2026. It is not an authoritative source snapshot or a prediction of case-specific enforcement."
+  },
+  "notices": [
+    {
+      "notice_id": "FR-2025-22140",
+      "document_number": "2025-22140",
+      "payload_file": "2025-22140.json",
+      "text_file": "2025-22140.txt",
+      "effect": "enforcement_paused",
+      "sections": ["260.6", "260.9", "399.80(l)"],
+      "scope": "renumbered_flight_no_significant_change",
+      "effective_from": "2025-12-05",
+      "effective_to_exclusive": "2026-07-01",
+      "source_url": "https://www.federalregister.gov/documents/2025/12/05/2025-22140/airline-refunds-and-other-consumer-protections",
+      "required_text": [
+        "As of December 5, 2025, the Department is pausing until June 30, 2026",
+        "until June 30, 2026"
+      ]
+    },
+    {
+      "notice_id": "FR-2026-13675",
+      "document_number": "2026-13675",
+      "payload_file": "2026-13675.json",
+      "text_file": "2026-13675.txt",
+      "effect": "enforcement_paused",
+      "sections": ["260.6", "260.9", "399.80(l)"],
+      "scope": "renumbered_flight_no_significant_change",
+      "effective_from": "2026-07-07",
+      "effective_to_exclusive": "2027-07-08",
+      "source_url": "https://www.federalregister.gov/documents/2026/07/07/2026-13675/airline-refunds-and-other-consumer-protections",
+      "required_text": [
+        "As of July 7, 2026",
+        "expiring on July 7, 2027"
+      ]
+    }
+  ]
+}

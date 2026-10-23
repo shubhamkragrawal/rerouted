@@ -1,0 +1,241 @@
+<html>
+<head>
+<title>Federal Register, Volume 90 Issue 232 (Friday, December 5, 2025)</title>
+</head>
+<body><pre>
+[Federal Register Volume 90, Number 232 (Friday, December 5, 2025)]
+[Rules and Regulations]
+[Pages 55999-56000]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2025-22140]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Office of the Secretary
+
+14 CFR Parts 260 and 399
+
+[Docket No. DOT-OST-2022-0089, DOT-OST-2025-2285]
+RIN 2105-AF04, 2105-AF36
+
+
+Airline Refunds and Other Consumer Protections
+
+AGENCY: Office of the Secretary of Transportation (OST), U.S. 
+Department of Transportation.
+
+ACTION: Notification of enforcement discretion.
+
+-----------------------------------------------------------------------
+
+SUMMARY: Under the U.S. Department of Transportation's (Department or 
+DOT) refund regulations in 14 CFR parts 260 and 399, a flight that is 
+given a different flight number than was assigned when the consumer 
+purchased the ticket is considered a new flight and the original flight 
+is considered a cancelled flight for which the consumer is eligible for 
+a refund. This document announces that the Department is exercising its 
+discretion to not enforce the requirements in 14 CFR 260.6, 260.9 and 
+14 CFR 399.80(l) regarding refunds and other consumer protections for a 
+cancelled flight when a flight is renumbered so long as the passenger 
+is rebooked on the flight under the new number and the flight is 
+operated without any ``significant change or delay'' as defined in 14 
+CFR 260.2 and 14 CFR 399.80(l). The Department is taking this interim 
+step of pausing enforcement of its refund requirements under these 
+specific limited circumstances while it engages in a new rulemaking to 
+consider whether to modify the definition of cancelled flight through 
+rulemaking.
+
+DATES: As of December 5, 2025, the Department is pausing until June 30, 
+2026 the enforcement of airline refunds requirements regarding 
+cancelled flights under 14 CFR parts 260 and 399 for flights that are 
+operated under a different flight number than was held out to consumers 
+at the time of ticket purchases so long as the flights impose no 
+significant change or delay to consumers' itineraries.
+
+ADDRESSES: This notification of enforcement discretion may be viewed 
+online at <a href="http://www.regulations.gov">www.regulations.gov</a> using the docket numbers listed above. 
+Electronic retrieval help and guidelines are available on the website. 
+It is available 24 hours each day, 365 days each year. An electronic 
+copy of this document may also be downloaded from the Office of the 
+Federal Register' website at <a href="http://www.federalregister.gov">www.federalregister.gov</a> and the Government 
+Publishing Office's website at <a href="http://www.GovInfo.gov">www.GovInfo.gov</a>.
+
+FOR FURTHER INFORMATION CONTACT: Clereece Kroha or Blane Workie, Office 
+of Aviation Consumer Protection, U.S. Department of Transportation, 
+1200 New Jersey Avenue SE, Washington, DC 20590, 202-366-9342 (phone), 
+202-366-7152 (fax), <a href="/cdn-cgi/l/email-protection#85e6e9e0f7e0e0e6e0abeef7eaede4c5e1eaf1abe2eaf3"><span class="__cf_email__" data-cfemail="85e6e9e0f7e0e0e6e0abeef7eaede4c5e1eaf1abe2eaf3">[email&#160;protected]</span></a>, or <a href="/cdn-cgi/l/email-protection#e48688858a81ca938b968f8d81a4808b90ca838b92"><span class="__cf_email__" data-cfemail="13717f727d763d647c61787a7653777c673d747c65">[email&#160;protected]</span></a> 
+(email).
+
+SUPPLEMENTARY INFORMATION: On April 26, 2024, DOT published in the 
+Federal Register a final rule on ``Airline Refunds and Other Consumer 
+Protection'' (Refund I) that, among other things, requires airlines and 
+ticket agents to provide prompt refunds to consumers when their flights 
+are cancelled, significantly delayed, or significantly changed and the 
+consumers are not offered or reject alternative transportation, travel 
+credits, vouchers, or other compensation.\1\ The rule also requires 
+carriers to provide notifications to affected consumers that they are 
+entitled to a refund when a flight cancellation or significant delay or 
+change occurs.\2\ The rule defines a ``cancelled flight or flight 
+cancellation'' to mean a covered flight with a specific flight number 
+scheduled to be operated between a specific origin-destination city 
+pair that was published in the carrier's Computer Reservation System
+
+[[Page 56000]]
+
+at the time of the ticket sale but not operated by the carrier.\3\ In 
+the preamble of the final rule, the Department explains that under this 
+definition, a flight that was operated under a different flight number 
+would be considered a new flight and the original flight would be 
+considered a canceled flight.\4\
+---------------------------------------------------------------------------
+
+    \1\ 89 FR 32760, 14 CFR 260.6.
+    \2\ Id., 14 CFR 260.9.
+    \3\ Id., 14 CFR 260.2.
+    \4\ 89 FR 32770.
+---------------------------------------------------------------------------
+
+    On May 16, 2024, the FAA Reauthorization Act of 2024 (Act) was 
+signed into law. Section 503 of the Act, which is codified in 49 U.S.C. 
+42305, requires airlines to notify consumers affected by flight 
+cancellations of their rights to a refund and to provide refunds to 
+passengers on any cancelled flight if the passengers choose not to fly 
+on an alternative flight or accept any compensation offered by the 
+carrier in lieu of a refund. The statute does not define what 
+constitutes a ``cancelled flight.'' \5\
+---------------------------------------------------------------------------
+
+    \5\ On August 12, 2024, DOT published a final rule titled 
+``Refunds and Other Consumer Protections (2024 FAA 
+Reauthorization)'' (Refund II) amending Refund I to be consistent 
+with FAA Reauthorization Act.
+---------------------------------------------------------------------------
+
+    On April 3, 2025, the Department issued a Request for Information 
+titled Ensuring Lawful Regulation; Reducing Regulation and Controlling 
+Regulatory Costs (Regulatory Reform RFI). Among other things, the 
+Regulatory Reform RFI sought public input to assist the Department in 
+identifying existing regulations that can be modified or repealed, 
+consistent with law, to ensure that DOT achieves meaningful burden 
+reduction while continuing to meet statutory obligations and assure the 
+safety of the U.S. transportation system.\6\ Several airlines and 
+airline trade associations commented in the Regulatory Reform RFI 
+docket that the Department should not consider a simple flight number 
+change a flight cancellation. The commenters pointed out that flight 
+number changes are made for a myriad of operational or commercial 
+reasons and have no material impact on passengers.\7\ They urged the 
+Department to revise the definition to exclude flight number changes. 
+The Department also received a request for enforcement discretion from 
+two U.S. carriers following their merger. In that request, the carriers 
+described the need to renumber tens of thousands of flights for 
+operational integration and FAA compliance. The Department determined 
+that consumers were not harmed by this flight renumbering, and based in 
+part on this determination, the Department granted that request.\8\
+---------------------------------------------------------------------------
+
+    \6\ 90 FR 14593.
+    \7\ See Comment from Airlines for America, <a href="https://www.regulations.gov/comment/DOT-OST-2025-0026-0845">https://www.regulations.gov/comment/DOT-OST-2025-0026-0845</a>; Comment from 
+International Air Transport Association, <a href="https://www.regulations.gov/comment/DOT-OST-2025-0026-0796">https://www.regulations.gov/comment/DOT-OST-2025-0026-0796</a>.
+    \8\ Letter from DOT to Alaska Airlines and Hawaiian Airlines 
+dated March 24, 2025. See Docket No. DOT-OST-2025-2285.
+---------------------------------------------------------------------------
+
+    Recently, the Department has received communications from a U.S. 
+airline advocating for a revision to the current definition of a 
+cancelled flight as established by the prior administration, arguing 
+that the definition is not required by statute, does not reflect the 
+realities of airline operations, and is overly broad. The airline 
+contends that flight number changes are often necessary for logistical 
+reasons and have no material impact on consumers. The airline explains 
+that there are two primary reasons for its flight number changes--a 
+switch between mainline and regional service and a switch between two 
+regional operators. The airline emphasizes that a flight number change 
+should not automatically be classified as a flight cancellation that 
+triggers eligibility for a refund.\9\
+---------------------------------------------------------------------------
+
+    \9\ Letter from American Airlines to DOT dated November 17, 
+2025. See Docket No. DOT-OST-2025-2285.
+---------------------------------------------------------------------------
+
+    The Department has initiated a new rulemaking titled ``Airline 
+Refunds and Other Consumer Protections III'' (Refund III) that will, 
+among other things, address the definition of a flight cancellation 
+that would entitle consumers to ticket refunds.\10\ In the interim, the 
+Department has decided to exercise its discretion and not enforce the 
+ticket refund and notification requirements in 14 CFR 260.6, 260.9 and 
+399.80(l) when a flight is given a different flight number than was 
+originally assigned provided that the passenger is rebooked on the new 
+flight and the flight is operated without any ``significant change or 
+delay'' \11\ as described in 14 CFR 260.2 and 14 CFR 399.80(l). This 
+enforcement discretion is temporary, pending a decision on whether to 
+move forward with a final rule to change the definition of a cancelled 
+flight. This enforcement notice does not prejudge the outcome of the 
+new rulemaking and is intended to address operational difficulties that 
+airlines face with the definition of canceled flight while the 
+rulemaking is ongoing.
+---------------------------------------------------------------------------
+
+    \10\ Spring 2025 Unified Agenda of Regulatory and Deregulatory 
+Actions, Department of Transportation, Airline Refunds and Other 
+Consumer Protections III (RIN 2105-AF36) at <a href="https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202504&RIN=2105-AF36">https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202504&RIN=2105-AF36</a>.
+    \11\ A significant delay or change would occur when as a result 
+of the new flight (1) The consumer is scheduled to depart from the 
+origination airport three hours or more for domestic itineraries and 
+six hours or more for international itineraries earlier than the 
+original scheduled departure time; (2) The consumer is scheduled to 
+arrive at the destination airport three or more hours for domestic 
+itineraries or six or more hours for international itineraries after 
+the original scheduled arrival time; (3) The consumer is scheduled 
+to depart from a different origination airport or arrive at a 
+different destination airport; (4) The consumer is scheduled to 
+travel on an itinerary with more connection points than that of the 
+original itinerary; (5) The consumer is downgraded to a lower class 
+of service; (6) The consumer who is an individual with a disability 
+is scheduled to travel through one or more connecting airports 
+different from the original itinerary; or (7) The consumer who is an 
+individual with a disability is scheduled to travel on substitute 
+aircraft on which one or more accessibility features needed by the 
+customer are unavailable.
+---------------------------------------------------------------------------
+
+    The earliest date that DOT expects to decide on whether to move 
+forward with a final rule on Refund III to change the definition of a 
+canceled flight is June 30, 2026. DOT has announced a target date of 
+February2026 for issuance of a notice of proposed rulemaking on Refund 
+III. A typical comment period for an NPRM is 60 days. DOT intends to 
+carefully consider all comments received (including late comments to 
+the extent practicable) before issuing a final rule, if appropriate. 
+This notice of enforcement discretion does not affect the enforcement 
+of the ticket refund or notification requirements beyond the definition 
+of canceled flight involving renumbered flights. It also does not 
+affect any other rights of consumers provided in other DOT rulemakings 
+\12\ or how U.S. carriers report on-time performance data including 
+cancelled and discontinued flights to the Department pursuant to 14 CFR 
+part 234.
+---------------------------------------------------------------------------
+
+    \12\ For instance, the Department requires airlines to offer 
+free rebooking on the next available flight of the same carrier or 
+partner carrier when the airline becomes aware that a passenger's 
+personal wheelchair or scooter does not fit on the passenger's 
+scheduled flight. See 14 CFR 382.125(f)(2). This means that if there 
+is a change of flight number accompanied by a change to a smaller 
+aircraft that is no longer able to accommodate a passenger's 
+wheelchair or scooter, the airline must offer the individual free 
+rebooking on the next available flight.
+
+    Issued in Washington, DC, under authority delegated in 49 CFR 
+1.27(n).
+Gregory Zerzan,
+General Counsel.
+[FR Doc. 2025-22140 Filed 12-4-25; 8:45 am]
+BILLING CODE 4910-9X-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

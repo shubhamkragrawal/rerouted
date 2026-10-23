@@ -1,0 +1,124 @@
+<html>
+<head>
+<title>Federal Register, Volume 91 Issue 128 (Tuesday, July 7, 2026)</title>
+</head>
+<body><pre>
+[Federal Register Volume 91, Number 128 (Tuesday, July 7, 2026)]
+[Rules and Regulations]
+[Pages 41556-41557]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2026-13675]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Office of the Secretary
+
+14 CFR Parts 260 and 399
+
+[Docket No. DOT-OST-2022-0089, DOT-OST-2025-2285]
+RIN 2105-AF04, 2105-AF36
+
+
+Airline Refunds and Other Consumer Protections
+
+AGENCY: Office of the Secretary of Transportation (OST), U.S. 
+Department of Transportation.
+
+ACTION: Notification of enforcement discretion.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The U.S. Department of Transportation (Department or DOT) is 
+extending its current enforcement discretion, announced on December 5, 
+2025, regarding specific refund regulations. Under current regulations, 
+a flight assigned a different flight number than was active at the time 
+of ticket purchase is considered a ``cancelled flight,'' making the 
+consumer eligible for a prompt refund and related notifications. The 
+Department is extending its discretion to not enforce these 
+requirements for renumbered flights, provided that the passenger is 
+rebooked on a flight with a new number and the flight operates without 
+any ``significant change or delay'' as defined in its regulations. This 
+extension provides the Department with the necessary time to complete 
+the pending rulemaking addressing the definition of a flight 
+cancellation.
+
+DATES: As of July 7, 2026, the Department is extending the pause on the 
+enforcement of airline refunds requirements regarding cancelled flights 
+under 14 CFR parts 260 and 399 for flights that are merely renumbered. 
+This enforcement discretion is extended for 1-year from the date of 
+this publication, expiring on July 7, 2027.
+
+ADDRESSES: This notification of enforcement discretion may be viewed 
+online at <a href="http://www.regulations.gov">www.regulations.gov</a> using the docket numbers listed above. 
+Electronic retrieval help and guidelines are available on the website. 
+It is available 24 hours each day, 365 days each year. An electronic 
+copy of this document may also be downloaded from the Office of the 
+Federal Register's website at <a href="http://www.federalregister.gov">www.federalregister.gov</a> and the 
+Government Publishing Office's website at <a href="http://www.GovInfo.gov">www.GovInfo.gov</a>.
+
+FOR FURTHER INFORMATION CONTACT: Clereece Kroha or Blane Workie, Office 
+of Aviation Consumer Protection, U.S. Department of Transportation, 
+1200 New Jersey Avenue SE, Washington, DC 20590, 202-366-9342 (phone), 
+202-366-7152 (fax), <a href="/cdn-cgi/l/email-protection#7516191007101016105b1e071a1d1435111a015b121a03"><span class="__cf_email__" data-cfemail="f3909f968196969096dd98819c9b92b3979c87dd949c85">[email&#160;protected]</span></a>, or <a href="/cdn-cgi/l/email-protection#23414f424d460d544c51484a4663474c570d444c55"><span class="__cf_email__" data-cfemail="1b79777a757e356c746970727e5b7f746f357c746d">[email&#160;protected]</span></a> 
+(email).
+
+SUPPLEMENTARY INFORMATION: On April 26, 2024, DOT published a final 
+rule titled ``Refunds and Other Consumer Protections'' (Refund I) (89 
+FR 32760). Under that rule, a ``cancelled flight'' was defined in a way 
+that classified a flight operated under a different flight number as a 
+new flight, meaning the original flight was considered cancelled and 
+subject to refund requirements. The rule also requires carriers to 
+provide notifications to affected consumers that they are entitled to a 
+refund when a flight cancellation or significant delay or change 
+occurs. Following the implementation of Refund I, multiple airlines 
+submitted requests highlighting the necessity of flight renumbering for 
+logistical reasons (such as switching between mainline and regional 
+service) and the general lack of material impact on passengers. Upon 
+review, DOT determined that consumers face no inherent harm from 
+routine flight renumbering, and, on December 5, 2025, published a 
+notification of enforcement discretion (90 FR 55999) announcing no 
+enforcement of these specific ticket refund and notification 
+requirements until June 30, 2026.
+    The Department is engaged in a rulemaking titled ``Airline Refunds 
+and Other Consumer Protections III'' (Refund III), identified by RIN 
+2105-AF36. Among other things, this proposed rule aims to reduce 
+unnecessary regulatory burdens by modifying the definition of a flight 
+cancellation that would entitle consumers to ticket refunds. Because 
+the Refund III rulemaking remains pending, the Department is extending 
+the enforcement pause for an additional 1-year period from the date of 
+this publication. Taking this interim step avoids imposing 
+counterproductive operational and technical difficulties on airlines 
+while the rulemaking process is ongoing.
+    This enforcement discretion remains temporary and strictly limited. 
+It applies solely to situations where a flight is given a different 
+flight number but the passenger is successfully rebooked on
+
+[[Page 41557]]
+
+the new flight without experiencing a ``significant change or delay'' 
+(e.g., changes to departure/arrival times by three or more hours 
+domestically, changes in departure/arrival airports, or downgrades in 
+class of service). If a flight number change is accompanied by any such 
+significant delay or disruptions, standard consumer refund mandates 
+remain fully enforceable.
+    This extension does not prejudge the outcome of the pending Refund 
+III rulemaking. Furthermore, it does not alter any other consumer 
+protections established in other DOT rulemakings, including airlines' 
+obligations to offer free rebooking when a change to a smaller aircraft 
+means a passenger's wheelchair or scooter can no longer be 
+accommodated. It also does not alter how U.S. carriers report on-time 
+performance data to the Department pursuant to 14 CFR part 234.
+
+    Issued in Washington, DC, under authority delegated in 49 CFR 
+1.27(n):
+Gregory Zerzan,
+General Counsel.
+[FR Doc. 2026-13675 Filed 7-6-26; 8:45 am]
+BILLING CODE 4910-9X-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

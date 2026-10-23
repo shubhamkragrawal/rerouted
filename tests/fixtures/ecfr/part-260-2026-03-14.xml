@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- SYNTHETIC PARSER FIXTURE. This is not an authoritative eCFR snapshot. -->
+<ECFR>
+  <TITLE N="14">
+    <CHAPTER N="II">
+      <SUBCHAP N="A">
+        <DIV5 N="260" TYPE="PART">
+          <HEAD>PART 260—AIRLINE REFUNDS AND OTHER CONSUMER PROTECTIONS</HEAD>
+          <AUTH>49 U.S.C. 40101, 40113, 41712, and 42301.</AUTH>
+          <SOURCE>89 FR 32760, Apr. 26, 2024, unless otherwise noted.</SOURCE>
+          <DIV8 N="§ 260.1" TYPE="SECTION">
+            <HEAD>§ 260.1 Purpose.</HEAD>
+            <P>This part requires prompt refunds when an airline cancels or significantly changes a flight and the consumer does not accept an alternative.</P>
+          </DIV8>
+          <DIV8 N="§ 260.6" TYPE="SECTION">
+            <HEAD>§ 260.6 Refunds for airline-caused changes.</HEAD>
+            <P>(a) A carrier must provide a prompt automatic refund when:</P>
+            <P>(1) The carrier cancels or makes a significant change to a flight;</P>
+            <P>(2) The passenger does not accept alternative transportation, travel credit, voucher, or other compensation; and</P>
+            <P>(3) The passenger is entitled to a refund under this part.</P>
+            <P>(b) Refunds must be provided in the original form of payment.</P>
+          </DIV8>
+        </DIV5>
+      </SUBCHAP>
+    </CHAPTER>
+  </TITLE>
+</ECFR>

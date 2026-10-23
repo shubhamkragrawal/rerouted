@@ -1,0 +1,52 @@
+Airline Cancellation and Delay Dashboard
+Last updated: Thursday, September 11, 2025
+The U.S. Department of Transportation has created a dashboard to ensure the traveling public has easy access to information about services that U.S. airlines provide to mitigate passenger inconveniences when the cause of a cancellation or delay was due to circumstances within the airline’s control.
+A green check mark on the dashboard means an airline has committed to providing that service or amenity to its customers. A red “x” means the airline has not made that commitment. However, airlines with a red “x” may provide these services and amenities in some instances in their discretion.
+American commits to Rebook passenger on same airline at no additional cost yes
+American commits to Rebook on partner airline or another airline with which it has an agreement at no additional cost yes
+American commits to Meal or meal cash/voucher when cancellation results in passenger waiting for 3 hours or more for new flight yes
+American commits to Complimentary hotel accommodations for any passenger affected by an overnight cancellation yes
+American commits to Complimentary ground transportation to and from hotel for any passenger affected by an overnight cancellation yes
+American does not commit to Cash compensation when a cancellation results in passenger waiting for 3 hours or more from the scheduled departure time no
+American does not commit to Credit/travel voucher when a cancellation results in passenger waiting for 3 hours or more from the scheduled departure time no
+American does not commit to Frequent flyer miles when a cancellation results in passenger waiting for 3 hours or more from the scheduled departure time no
+American commits to Rebook passenger on same airline at no additional cost for significant delays yes
+American commits to Rebook on partner airline or another airline with which it has an agreement at no additional cost for significant delays yes
+American commits to Meal or meal cash/voucher when flight delay results in passenger waiting 3 hours or more yes
+American commits to Complimentary hotel accommodations for any passenger affected by an overnight delay yes
+American commits to Complimentary ground transportation to and from hotel for any passenger affected by an overnight delay yes
+American does not commit to Cash compensation when a delay results in passenger waiting for 3 hours or more from the scheduled departure time no
+American does not commit to Credit/travel voucher when delay results in passenger waiting for 3 hours or more from the scheduled departure time no
+American does not commit to Frequent flyer miles when delay results in passenger waiting for 3 hours or more from the scheduled departure time no
+Delta commits to Rebook passenger on same airline at no additional cost yes
+Delta commits to Rebook on partner airline or another airline with which it has an agreement at no additional cost yes
+Delta commits to Meal or meal cash/voucher when cancellation results in passenger waiting for 3 hours or more for new flight yes
+Delta commits to Complimentary hotel accommodations for any passenger affected by an overnight cancellation yes
+Delta commits to Complimentary ground transportation to and from hotel for any passenger affected by an overnight cancellation yes
+Delta does not commit to Cash compensation when a cancellation results in passenger waiting for 3 hours or more from the scheduled departure time no
+Delta does not commit to Credit/travel voucher when a cancellation results in passenger waiting for 3 hours or more from the scheduled departure time no
+Delta does not commit to Frequent flyer miles when a cancellation results in passenger waiting for 3 hours or more from the scheduled departure time no
+Delta commits to Rebook passenger on same airline at no additional cost for significant delays yes
+Delta commits to Rebook on partner airline or another airline with which it has an agreement at no additional cost for significant delays yes
+Delta commits to Meal or meal cash/voucher when flight delay results in passenger waiting 3 hours or more yes
+Delta commits to Complimentary hotel accommodations for any passenger affected by an overnight delay yes
+Delta commits to Complimentary ground transportation to and from hotel for any passenger affected by an overnight delay yes
+Delta does not commit to Cash compensation when a delay results in passenger waiting for 3 hours or more from the scheduled departure time no
+Delta does not commit to Credit/travel voucher when delay results in passenger waiting for 3 hours or more from the scheduled departure time no
+Delta does not commit to Frequent flyer miles when delay results in passenger waiting for 3 hours or more from the scheduled departure time no
+United commits to Rebook passenger on same airline at no additional cost yes
+United commits to Rebook on partner airline or another airline with which it has an agreement at no additional cost yes
+United commits to Meal or meal cash/voucher when cancellation results in passenger waiting for 3 hours or more for new flight yes
+United commits to Complimentary hotel accommodations for any passenger affected by an overnight cancellation yes
+United commits to Complimentary ground transportation to and from hotel for any passenger affected by an overnight cancellation yes
+United does not commit to Cash compensation when a cancellation results in passenger waiting for 3 hours or more from the scheduled departure time no
+United does not commit to Credit/travel voucher when a cancellation results in passenger waiting for 3 hours or more from the scheduled departure time no
+United does not commit to Frequent flyer miles when a cancellation results in passenger waiting for 3 hours or more from the scheduled departure time no
+United commits to Rebook passenger on same airline at no additional cost for significant delays yes
+United commits to Rebook on partner airline or another airline with which it has an agreement at no additional cost for significant delays yes
+United commits to Meal or meal cash/voucher when flight delay results in passenger waiting 3 hours or more yes
+United commits to Complimentary hotel accommodations for any passenger affected by an overnight delay yes
+United commits to Complimentary ground transportation to and from hotel for any passenger affected by an overnight delay yes
+United does not commit to Cash compensation when a delay results in passenger waiting for 3 hours or more from the scheduled departure time no
+United does not commit to Credit/travel voucher when delay results in passenger waiting for 3 hours or more from the scheduled departure time no
+United does not commit to Frequent flyer miles when a delay results in passenger waiting for 3 hours or more from the scheduled departure time no

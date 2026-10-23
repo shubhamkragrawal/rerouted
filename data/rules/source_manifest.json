@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "corpus_reviewed_on": "2026-10-08",
+  "sources": [
+    {
+      "source_id": "aa-contract",
+      "title": "American Airlines Conditions of Carriage",
+      "source_url": "https://www.aa.com/web/i18n/customer-service/support/conditions-of-carriage.html",
+      "snapshot_file": "sources/aa_conditions_2026-08-13.txt",
+      "authority": "contract",
+      "carrier": "AA",
+      "source_version_date": "2026-08-13",
+      "source_last_updated": null,
+      "retrieved_on": "2026-10-08",
+      "effective_from": "2026-08-13",
+      "effective_to": null,
+      "date_basis": "American page labels this version Updated August 13, 2026",
+      "review_anchors": ["Updated August 13, 2026", "Rebooking your delayed / canceled flight", "Delays caused by us"],
+      "clauses": [
+        {
+          "document_id": "AA-CoC-rebooking",
+          "clause_id": "AA-CoC-rebooking",
+          "title": "AA conditions — rebooking and refund after delay or cancellation",
+          "source_section": "Delays, cancellations and diversions — Rebooking your delayed / canceled flight",
+          "scope": "Rebooking and unused ticket refund wording",
+          "text": "When your flight is canceled or a delay could cause you to miss your connection, we'll rebook you on the next American Airlines flight with available seats at no additional cost. If no American flights are available until the next day, and the disruption is caused by us, we’ll rebook you on one of our partner airlines with available seats at no additional cost. We’ll rebook you in your originally ticketed cabin or class with your original form of payment. If your flight was delayed or canceled and you don’t accept our alternative arrangements, or none were available, we'll refund the remaining ticket value and any optional fees according to our involuntary refunds policy. Beyond that, we have no further contractual obligation."
+        },
+        {
+          "document_id": "AA-CoC-controllable-overnight-hotel",
+          "clause_id": "AA-CoC-controllable-overnight-hotel",
+          "title": "AA conditions — overnight lodging after controllable disruption",
+          "source_section": "Delays, cancellations and diversions — Delays caused by us",
+          "scope": "Carrier-caused disruption; overnight stay; non-local passenger; authorization condition",
+          "text": "If the disruption is our fault or you're diverted to another city, and we don't board before 11:59 p.m. local time on your scheduled arrival day, we'll arrange an overnight stay or cover the cost of an approved hotel with available rooms if you’re away from your city of residence. We don’t guarantee reimbursement for hotel expenses if you book directly without written authorization from American Airlines."
+        }
+      ]
+    },
+    {
+      "source_id": "delta-contract",
+      "title": "Delta Air Lines Contract of Carriage: U.S.",
+      "source_url": "https://www.delta.com/us/en/legal/contract-of-carriage-dgr",
+      "snapshot_file": "sources/delta_contract_2026-08-18.txt",
+      "authority": "contract",
+      "carrier": "DL",
+      "source_version_date": "2026-08-18",
+      "source_last_updated": null,
+      "retrieved_on": "2026-10-08",
+      "effective_from": "2026-08-18",
+      "effective_to": null,
+      "date_basis": "Delta page says Last Modified August 18, 2026",
+      "review_anchors": ["Last Modified August 18, 2026.", "RULE 19: FLIGHT DELAYS/CANCELLATIONS", "RULE 22: REFUNDS"],
+      "clauses": [
+        {
+          "document_id": "DL-CoC-rule-19a-refund-rebooking",
+          "clause_id": "DL-CoC-Rule-19(A)",
+          "title": "Delta Rule 19(A) — significant changes, refund or alternate transportation",
+          "source_section": "Rule 19(A)",
+          "scope": "Cancellation, qualifying departure/arrival changes, missed connection, refund or rebooking",
+          "text": "If there is a flight cancellation, change in departure time to depart 180 minutes or more before the original scheduled departure time, change in arrival time to arrive 180 minutes or more after the original scheduled arrival time, change that will cause a passenger to miss connections, or in the event of a significantly delayed or changed flight pursuant to applicable law, Delta will, (i) at passenger’s request, (ii) if Delta does not offer an alternative flight or voucher option, or (iii) if the passenger does not respond to the offer on an alternative flight or voucher option prior to the originally scheduled departure time: cancel the remaining ticket and refund the unused portion of the ticket and unused ancillary fees (and including any paid checked bag fees) in the original form of payment in accordance with Rule 22. If the passenger does not request cancellation and refund of the remaining portion of the ticket, Delta will transport the passenger to the destination on Delta’s next flight on which seats are available in the class of service originally purchased. At Delta’s sole discretion and if acceptable to the passenger, Delta may arrange for the passenger to travel on another Carrier or via ground transportation."
+        },
+        {
+          "document_id": "DL-CoC-rule-19b-amenities",
+          "clause_id": "DL-CoC-Rule-19(B)",
+          "title": "Delta Rule 19(B) — amenities during non-force-majeure delays",
+          "source_section": "Rule 19(B)",
+          "scope": "On-day-of-travel interruption over four hours; excludes force majeure",
+          "text": "However, when a passenger’s travel is interrupted for more than 4 hours after the scheduled departure time as a result of flight cancellation or delay on the date of travel other than from force majeure, Delta will provide the passenger with the following additional amenities during the delay: If overnight accommodations are available at Delta contracted facilities, Delta will provide the passenger with a voucher for one night’s lodging when the delay is during the period of 10:00 pm to 6:00 am. Delta will provide free public ground transportation to the hotel if the hotel does not offer such service. If accommodations are not available, Delta will provide the passenger with a voucher that may be applied to future travel on Delta equal in value to the contracted hotel rate, up to $100 USD."
+        }
+      ]
+    },
+    {
+      "source_id": "united-contract",
+      "title": "United Airlines Contract of Carriage Document",
+      "source_url": "https://www.united.com/en/us/fly/contract-of-carriage.html",
+      "snapshot_file": "sources/united_contract_2026-09-30.txt",
+      "authority": "contract",
+      "carrier": "UA",
+      "source_version_date": "2026-09-30",
+      "source_last_updated": null,
+      "retrieved_on": "2026-10-08",
+      "effective_from": "2026-09-30",
+      "effective_to": null,
+      "date_basis": "United page labels this document revised September 30, 2026",
+      "review_anchors": ["(revised September 30, 2026)", "Rule 24 Flight Delays/Cancellations/Aircraft Changes", "Rule 27 Refunds"],
+      "clauses": [
+        {
+          "document_id": "UA-CoC-rule-24c-schedule-change",
+          "clause_id": "UA-CoC-Rule-24(C)",
+          "title": "United Rule 24(C) — schedule change options",
+          "source_section": "Rule 24(C)",
+          "scope": "Schedule changes; alternate carriage, significant change and passenger-selected refund",
+          "text": "Schedule Change - When a Passenger’s Ticketed flight is affected because of a Schedule Change, UA will, at its election, arrange one of the following: Transport the Passenger on its closest available flight to the Destination, next Stopover point, or transfer point shown on its portion of the Ticket, without Stopover in the same class of service (subject to availability), at no additional cost to the Passenger; provided that if UA determines that such alternate transportation results in a significant change and the Passenger chooses not to accept such alternate transportation, United will provide a refund."
+        },
+        {
+          "document_id": "UA-CoC-rule-24f-amenities",
+          "clause_id": "UA-CoC-Rule-24(F)",
+          "title": "United Rule 24(F) — lodging during overnight carrier irregular operations",
+          "source_section": "Rule 24(F)(1)",
+          "scope": "UA irregular operations; expected delay over four hours during overnight window; lodging availability and maximum amount conditions",
+          "text": "UA will provide at its option either one night’s lodging, or, if no lodging is provided and upon the passenger’s request only, reimbursement for one night’s lodging in the form of an electronic travel certificate that may be applied to future travel on UA up to a maximum amount determined by UA when a UA flight on which a Passenger is being transported incurs Irregular Operations and the Passenger incurs a delay that is expected to exceed four hours between the hours of 10:00 p.m. to 6:00 a.m. local time."
+        },
+        {
+          "document_id": "UA-CoC-rule-27a-involuntary-refunds",
+          "clause_id": "UA-CoC-Rule-27(A)(1)",
+          "title": "United Rule 27(A)(1) — involuntary refunds for Rule 24 events",
+          "source_section": "Rule 27(A)(1)",
+          "scope": "Unused ticket; reasons pursuant to Rule 21 or Rule 24",
+          "text": "The amount UA will refund upon surrender of the unused portion of the Passenger’s Ticket for reasons pursuant to Rule 21 or Rule 24 will be as follows: If no portion of the Ticket has been used: An amount equal to the fare and charges paid."
+        }
+      ]
+    },
+    {
+      "source_id": "dot-dashboard-aa",
+      "title": "DOT Airline Cancellation and Delay Dashboard — American Airlines",
+      "source_url": "https://www.transportation.gov/airconsumer/airline-cancellation-delay-dashboard",
+      "snapshot_file": "sources/dot_dashboard_2025-09-11.txt",
+      "authority": "commitment",
+      "carrier": "AA",
+      "source_version_date": null,
+      "source_last_updated": "2025-09-11",
+      "retrieved_on": "2026-10-08",
+      "effective_from": "2025-09-11",
+      "effective_to": "2026-10-08",
+      "date_basis": "snapshot observation window from page Last updated date through retrieval; not a legal effective-period assertion",
+      "review_anchors": ["Last updated: Thursday, September 11, 2025", "American commits to Rebook passenger on same airline at no additional cost yes", "American commits to Rebook passenger on same airline at no additional cost for significant delays yes"],
+      "clauses": [
+        {
+          "document_id": "DOT-AA-cancellation-commitments",
+          "clause_id": "DOT-AA-cancellation-commitments",
+          "title": "DOT dashboard — American controllable cancellation commitments",
+          "source_section": "Commitments for Controllable Cancellations",
+          "scope": "Dashboard snapshot; commitment statuses, not regulatory entitlements",
+          "text": "American commits to Rebook passenger on same airline at no additional cost yes\nAmerican commits to Rebook on partner airline or another airline with which it has an agreement at no additional cost yes\nAmerican commits to Meal or meal cash/voucher when cancellation results in passenger waiting for 3 hours or more for new flight yes\nAmerican commits to Complimentary hotel accommodations for any passenger affected by an overnight cancellation yes\nAmerican commits to Complimentary ground transportation to and from hotel for any passenger affected by an overnight cancellation yes\nAmerican does not commit to Cash compensation when a cancellation results in passenger waiting for 3 hours or more from the scheduled departure time no\nAmerican does not commit to Credit/travel voucher when a cancellation results in passenger waiting for 3 hours or more from the scheduled departure time no\nAmerican does not commit to Frequent flyer miles when a cancellation results in passenger waiting for 3 hours or more from the scheduled departure time no"
+        },
+        {
+          "document_id": "DOT-AA-delay-commitments",
+          "clause_id": "DOT-AA-delay-commitments",
+          "title": "DOT dashboard — American controllable delay commitments",
+          "source_section": "Commitments for Controllable Delays",
+          "scope": "Dashboard snapshot; significant delay, three-hour and overnight commitments",
+          "text": "American commits to Rebook passenger on same airline at no additional cost for significant delays yes\nAmerican commits to Rebook on partner airline or another airline with which it has an agreement at no additional cost for significant delays yes\nAmerican commits to Meal or meal cash/voucher when flight delay results in passenger waiting 3 hours or more yes\nAmerican commits to Complimentary hotel accommodations for any passenger affected by an overnight delay yes\nAmerican commits to Complimentary ground transportation to and from hotel for any passenger affected by an overnight delay yes\nAmerican does not commit to Cash compensation when a delay results in passenger waiting for 3 hours or more from the scheduled departure time no\nAmerican does not commit to Credit/travel voucher when delay results in passenger waiting for 3 hours or more from the scheduled departure time no\nAmerican does not commit to Frequent flyer miles when delay results in passenger waiting for 3 hours or more from the scheduled departure time no"
+        }
+      ]
+    },
+    {
+      "source_id": "dot-dashboard-dl",
+      "title": "DOT Airline Cancellation and Delay Dashboard — Delta Air Lines",
+      "source_url": "https://www.transportation.gov/airconsumer/airline-cancellation-delay-dashboard",
+      "snapshot_file": "sources/dot_dashboard_2025-09-11.txt",
+      "authority": "commitment",
+      "carrier": "DL",
+      "source_version_date": null,
+      "source_last_updated": "2025-09-11",
+      "retrieved_on": "2026-10-08",
+      "effective_from": "2025-09-11",
+      "effective_to": "2026-10-08",
+      "date_basis": "snapshot observation window from page Last updated date through retrieval; not a legal effective-period assertion",
+      "review_anchors": ["Last updated: Thursday, September 11, 2025", "Delta commits to Rebook passenger on same airline at no additional cost yes", "Delta commits to Rebook passenger on same airline at no additional cost for significant delays yes"],
+      "clauses": [
+        {
+          "document_id": "DOT-DL-cancellation-commitments",
+          "clause_id": "DOT-DL-cancellation-commitments",
+          "title": "DOT dashboard — Delta controllable cancellation commitments",
+          "source_section": "Commitments for Controllable Cancellations",
+          "scope": "Dashboard snapshot; commitment statuses, not regulatory entitlements",
+          "text": "Delta commits to Rebook passenger on same airline at no additional cost yes\nDelta commits to Rebook on partner airline or another airline with which it has an agreement at no additional cost yes\nDelta commits to Meal or meal cash/voucher when cancellation results in passenger waiting for 3 hours or more for new flight yes\nDelta commits to Complimentary hotel accommodations for any passenger affected by an overnight cancellation yes\nDelta commits to Complimentary ground transportation to and from hotel for any passenger affected by an overnight cancellation yes\nDelta does not commit to Cash compensation when a cancellation results in passenger waiting for 3 hours or more from the scheduled departure time no\nDelta does not commit to Credit/travel voucher when a cancellation results in passenger waiting for 3 hours or more from the scheduled departure time no\nDelta does not commit to Frequent flyer miles when a cancellation results in passenger waiting for 3 hours or more from the scheduled departure time no"
+        },
+        {
+          "document_id": "DOT-DL-delay-commitments",
+          "clause_id": "DOT-DL-delay-commitments",
+          "title": "DOT dashboard — Delta controllable delay commitments",
+          "source_section": "Commitments for Controllable Delays",
+          "scope": "Dashboard snapshot; significant delay, three-hour and overnight commitments",
+          "text": "Delta commits to Rebook passenger on same airline at no additional cost for significant delays yes\nDelta commits to Rebook on partner airline or another airline with which it has an agreement at no additional cost for significant delays yes\nDelta commits to Meal or meal cash/voucher when flight delay results in passenger waiting 3 hours or more yes\nDelta commits to Complimentary hotel accommodations for any passenger affected by an overnight delay yes\nDelta commits to Complimentary ground transportation to and from hotel for any passenger affected by an overnight delay yes\nDelta does not commit to Cash compensation when a delay results in passenger waiting for 3 hours or more from the scheduled departure time no\nDelta does not commit to Credit/travel voucher when delay results in passenger waiting for 3 hours or more from the scheduled departure time no\nDelta does not commit to Frequent flyer miles when delay results in passenger waiting for 3 hours or more from the scheduled departure time no"
+        }
+      ]
+    },
+    {
+      "source_id": "dot-dashboard-ua",
+      "title": "DOT Airline Cancellation and Delay Dashboard — United Airlines",
+      "source_url": "https://www.transportation.gov/airconsumer/airline-cancellation-delay-dashboard",
+      "snapshot_file": "sources/dot_dashboard_2025-09-11.txt",
+      "authority": "commitment",
+      "carrier": "UA",
+      "source_version_date": null,
+      "source_last_updated": "2025-09-11",
+      "retrieved_on": "2026-10-08",
+      "effective_from": "2025-09-11",
+      "effective_to": "2026-10-08",
+      "date_basis": "snapshot observation window from page Last updated date through retrieval; not a legal effective-period assertion",
+      "review_anchors": ["Last updated: Thursday, September 11, 2025", "United commits to Rebook passenger on same airline at no additional cost yes", "United commits to Rebook passenger on same airline at no additional cost for significant delays yes"],
+      "clauses": [
+        {
+          "document_id": "DOT-UA-cancellation-commitments",
+          "clause_id": "DOT-UA-cancellation-commitments",
+          "title": "DOT dashboard — United controllable cancellation commitments",
+          "source_section": "Commitments for Controllable Cancellations",
+          "scope": "Dashboard snapshot; commitment statuses, not regulatory entitlements",
+          "text": "United commits to Rebook passenger on same airline at no additional cost yes\nUnited commits to Rebook on partner airline or another airline with which it has an agreement at no additional cost yes\nUnited commits to Meal or meal cash/voucher when cancellation results in passenger waiting for 3 hours or more for new flight yes\nUnited commits to Complimentary hotel accommodations for any passenger affected by an overnight cancellation yes\nUnited commits to Complimentary ground transportation to and from hotel for any passenger affected by an overnight cancellation yes\nUnited does not commit to Cash compensation when a cancellation results in passenger waiting for 3 hours or more from the scheduled departure time no\nUnited does not commit to Credit/travel voucher when a cancellation results in passenger waiting for 3 hours or more from the scheduled departure time no\nUnited does not commit to Frequent flyer miles when a cancellation results in passenger waiting for 3 hours or more from the scheduled departure time no"
+        },
+        {
+          "document_id": "DOT-UA-delay-commitments",
+          "clause_id": "DOT-UA-delay-commitments",
+          "title": "DOT dashboard — United controllable delay commitments",
+          "source_section": "Commitments for Controllable Delays",
+          "scope": "Dashboard snapshot; significant delay, three-hour and overnight commitments",
+          "text": "United commits to Rebook passenger on same airline at no additional cost for significant delays yes\nUnited commits to Rebook on partner airline or another airline with which it has an agreement at no additional cost for significant delays yes\nUnited commits to Meal or meal cash/voucher when flight delay results in passenger waiting 3 hours or more yes\nUnited commits to Complimentary hotel accommodations for any passenger affected by an overnight delay yes\nUnited commits to Complimentary ground transportation to and from hotel for any passenger affected by an overnight delay yes\nUnited does not commit to Cash compensation when a delay results in passenger waiting for 3 hours or more from the scheduled departure time no\nUnited does not commit to Credit/travel voucher when delay results in passenger waiting for 3 hours or more from the scheduled departure time no\nUnited does not commit to Frequent flyer miles when a delay results in passenger waiting for 3 hours or more from the scheduled departure time no"
+        }
+      ]
+    }
+  ]
+}

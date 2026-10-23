@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- SYNTHETIC PARSER FIXTURE. This is not an authoritative eCFR snapshot. -->
+<ECFR>
+  <TITLE N="14">
+    <CHAPTER N="II">
+      <SUBCHAP N="A">
+        <DIV5 N="260" TYPE="PART">
+          <HEAD>PART 260—SYNTHETIC REFUND TEST MATERIAL</HEAD>
+          <AUTH>49 U.S.C. 40101 and 41712.</AUTH>
+          <SOURCE>Synthetic source note for parser testing only.</SOURCE>
+          <DIV8 N="§ 260.2" TYPE="SECTION">
+            <HEAD>§ 260.2 Definitions.</HEAD>
+            <P>Cancelled flight means a flight that was published and not operated.</P>
+            <P>Carrier means a certificated or commuter air carrier.</P>
+            <P>Significant change means a qualifying itinerary change.</P>
+          </DIV8>
+        </DIV5>
+      </SUBCHAP>
+    </CHAPTER>
+  </TITLE>
+</ECFR>
