@@ -1,0 +1,691 @@
+{
+  "dataset_manifest": "data/processed/flight_features_2025/manifest.json",
+  "dataset_manifest_sha256": "339637345083316a6cb5464faa5eef367ed4832c676b947aecf6fad7fe763c7d",
+  "metrics": {
+    "cancel": {
+      "test": {
+        "brier_calibrated": 0.016257831379708442,
+        "brier_uncalibrated": 0.016257831379708442,
+        "ece_calibrated": 0.002781370711432099,
+        "ece_uncalibrated": 0.002781370711432099,
+        "eligible_rows": 50000,
+        "eligible_rows_total": 120000,
+        "reliability_calibrated": [
+          {
+            "count": 50000,
+            "lower": 0.0,
+            "mean_predicted": 0.0138386292885679,
+            "observed_rate": 0.01662,
+            "upper": 0.1
+          },
+          {
+            "count": 0,
+            "lower": 0.1,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.2
+          },
+          {
+            "count": 0,
+            "lower": 0.2,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.3
+          },
+          {
+            "count": 0,
+            "lower": 0.3,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.4
+          },
+          {
+            "count": 0,
+            "lower": 0.4,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.5
+          },
+          {
+            "count": 0,
+            "lower": 0.5,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.6
+          },
+          {
+            "count": 0,
+            "lower": 0.6,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.7
+          },
+          {
+            "count": 0,
+            "lower": 0.7,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.8
+          },
+          {
+            "count": 0,
+            "lower": 0.8,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.9
+          },
+          {
+            "count": 0,
+            "lower": 0.9,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 1.0
+          }
+        ],
+        "reliability_uncalibrated": [
+          {
+            "count": 50000,
+            "lower": 0.0,
+            "mean_predicted": 0.0138386292885679,
+            "observed_rate": 0.01662,
+            "upper": 0.1
+          },
+          {
+            "count": 0,
+            "lower": 0.1,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.2
+          },
+          {
+            "count": 0,
+            "lower": 0.2,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.3
+          },
+          {
+            "count": 0,
+            "lower": 0.3,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.4
+          },
+          {
+            "count": 0,
+            "lower": 0.4,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.5
+          },
+          {
+            "count": 0,
+            "lower": 0.5,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.6
+          },
+          {
+            "count": 0,
+            "lower": 0.6,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.7
+          },
+          {
+            "count": 0,
+            "lower": 0.7,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.8
+          },
+          {
+            "count": 0,
+            "lower": 0.8,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.9
+          },
+          {
+            "count": 0,
+            "lower": 0.9,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 1.0
+          }
+        ],
+        "target_definition": "Cancelled"
+      },
+      "training_rows": 50000,
+      "validation": {
+        "brier_calibrated": 0.013131200332838572,
+        "brier_uncalibrated": 0.013131200332838572,
+        "calibration_rows": 10000,
+        "conformal_rows": 10000,
+        "ece_calibrated": 0.0005303773895639682,
+        "ece_uncalibrated": 0.0005303773895639682,
+        "interpretation": "The fold is divided into disjoint isotonic-calibration and split-conformal subsets. Use the chronological test metrics for evaluation.",
+        "isotonic_selected": false,
+        "reliability_calibrated": [
+          {
+            "count": 20000,
+            "lower": 0.0,
+            "mean_predicted": 0.013930377389563969,
+            "observed_rate": 0.0134,
+            "upper": 0.1
+          },
+          {
+            "count": 0,
+            "lower": 0.1,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.2
+          },
+          {
+            "count": 0,
+            "lower": 0.2,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.3
+          },
+          {
+            "count": 0,
+            "lower": 0.3,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.4
+          },
+          {
+            "count": 0,
+            "lower": 0.4,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.5
+          },
+          {
+            "count": 0,
+            "lower": 0.5,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.6
+          },
+          {
+            "count": 0,
+            "lower": 0.6,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.7
+          },
+          {
+            "count": 0,
+            "lower": 0.7,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.8
+          },
+          {
+            "count": 0,
+            "lower": 0.8,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.9
+          },
+          {
+            "count": 0,
+            "lower": 0.9,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 1.0
+          }
+        ],
+        "reliability_uncalibrated": [
+          {
+            "count": 20000,
+            "lower": 0.0,
+            "mean_predicted": 0.013930377389563969,
+            "observed_rate": 0.0134,
+            "upper": 0.1
+          },
+          {
+            "count": 0,
+            "lower": 0.1,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.2
+          },
+          {
+            "count": 0,
+            "lower": 0.2,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.3
+          },
+          {
+            "count": 0,
+            "lower": 0.3,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.4
+          },
+          {
+            "count": 0,
+            "lower": 0.4,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.5
+          },
+          {
+            "count": 0,
+            "lower": 0.5,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.6
+          },
+          {
+            "count": 0,
+            "lower": 0.6,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.7
+          },
+          {
+            "count": 0,
+            "lower": 0.7,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.8
+          },
+          {
+            "count": 0,
+            "lower": 0.8,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.9
+          },
+          {
+            "count": 0,
+            "lower": 0.9,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 1.0
+          }
+        ],
+        "role": "calibration_and_conformal_diagnostic"
+      },
+      "validation_rows": 20000
+    },
+    "delay": {
+      "test": {
+        "brier_calibrated": 0.2132347345853876,
+        "brier_uncalibrated": 0.2132347345853876,
+        "ece_calibrated": 0.0961064349489405,
+        "ece_uncalibrated": 0.0961064349489405,
+        "eligible_rows": 48966,
+        "eligible_rows_total": 117720,
+        "reliability_calibrated": [
+          {
+            "count": 0,
+            "lower": 0.0,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.1
+          },
+          {
+            "count": 17005,
+            "lower": 0.1,
+            "mean_predicted": 0.18364454376785097,
+            "observed_rate": 0.1722434578065275,
+            "upper": 0.2
+          },
+          {
+            "count": 30830,
+            "lower": 0.2,
+            "mean_predicted": 0.23091583013917236,
+            "observed_rate": 0.3680830360038923,
+            "upper": 0.3
+          },
+          {
+            "count": 1131,
+            "lower": 0.3,
+            "mean_predicted": 0.34287597689814403,
+            "observed_rate": 0.5932802829354553,
+            "upper": 0.4
+          },
+          {
+            "count": 0,
+            "lower": 0.4,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.5
+          },
+          {
+            "count": 0,
+            "lower": 0.5,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.6
+          },
+          {
+            "count": 0,
+            "lower": 0.6,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.7
+          },
+          {
+            "count": 0,
+            "lower": 0.7,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.8
+          },
+          {
+            "count": 0,
+            "lower": 0.8,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.9
+          },
+          {
+            "count": 0,
+            "lower": 0.9,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 1.0
+          }
+        ],
+        "reliability_uncalibrated": [
+          {
+            "count": 0,
+            "lower": 0.0,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.1
+          },
+          {
+            "count": 17005,
+            "lower": 0.1,
+            "mean_predicted": 0.18364454376785097,
+            "observed_rate": 0.1722434578065275,
+            "upper": 0.2
+          },
+          {
+            "count": 30830,
+            "lower": 0.2,
+            "mean_predicted": 0.23091583013917236,
+            "observed_rate": 0.3680830360038923,
+            "upper": 0.3
+          },
+          {
+            "count": 1131,
+            "lower": 0.3,
+            "mean_predicted": 0.34287597689814403,
+            "observed_rate": 0.5932802829354553,
+            "upper": 0.4
+          },
+          {
+            "count": 0,
+            "lower": 0.4,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.5
+          },
+          {
+            "count": 0,
+            "lower": 0.5,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.6
+          },
+          {
+            "count": 0,
+            "lower": 0.6,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.7
+          },
+          {
+            "count": 0,
+            "lower": 0.7,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.8
+          },
+          {
+            "count": 0,
+            "lower": 0.8,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.9
+          },
+          {
+            "count": 0,
+            "lower": 0.9,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 1.0
+          }
+        ],
+        "target_definition": "ArrDel15 on rows with observed arrival-delay labels"
+      },
+      "training_rows": 49105,
+      "validation": {
+        "brier_calibrated": 0.21015436765483378,
+        "brier_uncalibrated": 0.21015436765483378,
+        "calibration_rows": 9825,
+        "conformal_rows": 9824,
+        "ece_calibrated": 0.09850417352856235,
+        "ece_uncalibrated": 0.09850417352856235,
+        "interpretation": "The fold is divided into disjoint isotonic-calibration and split-conformal subsets. Use the chronological test metrics for evaluation.",
+        "isotonic_selected": false,
+        "reliability_calibrated": [
+          {
+            "count": 0,
+            "lower": 0.0,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.1
+          },
+          {
+            "count": 6837,
+            "lower": 0.1,
+            "mean_predicted": 0.18341840662779724,
+            "observed_rate": 0.16205938277022086,
+            "upper": 0.2
+          },
+          {
+            "count": 12335,
+            "lower": 0.2,
+            "mean_predicted": 0.23121591616354248,
+            "observed_rate": 0.3641670044588569,
+            "upper": 0.3
+          },
+          {
+            "count": 477,
+            "lower": 0.3,
+            "mean_predicted": 0.3427144959627502,
+            "observed_rate": 0.6561844863731656,
+            "upper": 0.4
+          },
+          {
+            "count": 0,
+            "lower": 0.4,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.5
+          },
+          {
+            "count": 0,
+            "lower": 0.5,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.6
+          },
+          {
+            "count": 0,
+            "lower": 0.6,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.7
+          },
+          {
+            "count": 0,
+            "lower": 0.7,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.8
+          },
+          {
+            "count": 0,
+            "lower": 0.8,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.9
+          },
+          {
+            "count": 0,
+            "lower": 0.9,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 1.0
+          }
+        ],
+        "reliability_uncalibrated": [
+          {
+            "count": 0,
+            "lower": 0.0,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.1
+          },
+          {
+            "count": 6837,
+            "lower": 0.1,
+            "mean_predicted": 0.18341840662779724,
+            "observed_rate": 0.16205938277022086,
+            "upper": 0.2
+          },
+          {
+            "count": 12335,
+            "lower": 0.2,
+            "mean_predicted": 0.23121591616354248,
+            "observed_rate": 0.3641670044588569,
+            "upper": 0.3
+          },
+          {
+            "count": 477,
+            "lower": 0.3,
+            "mean_predicted": 0.3427144959627502,
+            "observed_rate": 0.6561844863731656,
+            "upper": 0.4
+          },
+          {
+            "count": 0,
+            "lower": 0.4,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.5
+          },
+          {
+            "count": 0,
+            "lower": 0.5,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.6
+          },
+          {
+            "count": 0,
+            "lower": 0.6,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.7
+          },
+          {
+            "count": 0,
+            "lower": 0.7,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.8
+          },
+          {
+            "count": 0,
+            "lower": 0.8,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 0.9
+          },
+          {
+            "count": 0,
+            "lower": 0.9,
+            "mean_predicted": null,
+            "observed_rate": null,
+            "upper": 1.0
+          }
+        ],
+        "role": "calibration_and_conformal_diagnostic"
+      },
+      "validation_rows": 19649
+    }
+  },
+  "model_metadata": {
+    "calibration": "isotonic selected only when conformal-fold Brier score improves",
+    "dataset_filters": {
+      "airport_selection": "top 10 by BTS departure count",
+      "end_date": "2025-08-24",
+      "selected_origin_airports": [
+        "ATL",
+        "CLT",
+        "DEN",
+        "DFW",
+        "LAS",
+        "LAX",
+        "MCO",
+        "ORD",
+        "PHX",
+        "SEA"
+      ],
+      "start_date": "2025-01-02",
+      "top_airports": 10,
+      "weather_window_hours": 3
+    },
+    "dataset_manifest_sha256": "339637345083316a6cb5464faa5eef367ed4832c676b947aecf6fad7fe763c7d",
+    "dataset_rows": 1531942,
+    "estimator": "pure-python-logistic-gradient-boosted-stumps",
+    "evaluation_metrics_source": "chronological_test_holdout",
+    "feature_pipeline_version": "fp-1",
+    "model_version": "delayrisk-0.1.0",
+    "sampling": {
+      "maximum_test_rows": 50000,
+      "maximum_train_rows": 50000,
+      "maximum_validation_rows": 20000,
+      "method": "deterministic_even_chronological"
+    },
+    "source_dataset_rows": 1531942,
+    "split_time_basis": "prediction_timestamp_utc grouped by UTC date",
+    "targets": {
+      "cancel": "Cancelled",
+      "delay": "ArrDel15"
+    },
+    "test_end": "2025-08-24",
+    "test_prediction_end_utc": "2025-08-25T06:59:00+00:00",
+    "test_prediction_start_utc": "2025-07-09T00:00:00+00:00",
+    "test_rows": 50000,
+    "test_start": "2025-07-08",
+    "training_data_provenance": "BTS TranStats and NOAA NCEI LCD; dataset manifest data/processed/flight_features_2025/manifest.json; data SHA-256 f8cd001b1554f082ee912b857f4cb61d7e36f78d074e64f2df693eca87dba972",
+    "training_data_sha256": "e960ff87c37601c277d380d7b8b2f42f3f4697fefd94a50c055455b75f4d9221",
+    "training_end": "2025-05-22",
+    "training_prediction_end_utc": "2025-05-22T23:59:00+00:00",
+    "training_prediction_start_utc": "2025-01-02T07:28:00+00:00",
+    "training_rows": 50000,
+    "training_start": "2025-01-02",
+    "uncertainty_interval": "clipped split-conformal 90% absolute-residual interval; isotonic calibration and conformal residuals use disjoint chronological validation subsets",
+    "validation_end": "2025-07-08",
+    "validation_prediction_end_utc": "2025-07-08T23:59:00+00:00",
+    "validation_prediction_start_utc": "2025-05-23T00:00:00+00:00",
+    "validation_rows": 20000,
+    "validation_start": "2025-05-22"
+  },
+  "model_path": "data/model/delayrisk.json",
+  "model_sha256": "8f690b8f7a5e921b40fb9f10145b15b0c62e6982ab4201c167a126ecb444364b",
+  "training_csv_sha256": "f8cd001b1554f082ee912b857f4cb61d7e36f78d074e64f2df693eca87dba972"
+}
