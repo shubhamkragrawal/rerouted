@@ -1,0 +1,25 @@
+environment: local
+api_url: http://localhost:8000
+paths:
+  rules_documents: data/rules/documents.jsonl
+  delay_model: data/model/delayrisk.json
+  bts_schedule_template: data/raw/bts/{year}-{month:02d}.zip
+  ncei_station_template: data/raw/lcd/{year}/{station}.csv
+  airport_metadata: config/airports.yaml
+  airport_timezones: config/airport_timezones.csv
+  airport_weather_stations: config/airport_weather_stations.csv
+data_version:
+  rules: official-local-2026-10-08
+  bts: bts-on-time-2024-2025-local
+  ncei: ncei-lcd-2024-2025-local
+  model: delayrisk-local-2025
+airports: {}
+nws:
+  user_agent: "Rerouted/0.1 (contact: configure-your-email@example.invalid)"
+budgets:
+  llm_calls: 8
+  cost_usd: 0.12
+  wall_clock_seconds: 20
+retrieval:
+  default_k: 10
+  rerank_candidates: 50
