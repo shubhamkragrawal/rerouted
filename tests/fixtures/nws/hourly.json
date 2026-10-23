@@ -1,0 +1,20 @@
+{
+  "properties": {
+    "periods": [
+      {
+        "startTime": "2026-10-08T12:00:00-04:00",
+        "shortForecast": "Thunderstorms",
+        "cloudLayers": [{"amount": "BKN", "base": {"value": 150, "unitCode": "wmoUnit:m"}}],
+        "visibility": {"value": 1000, "unitCode": "wmoUnit:m"},
+        "windSpeed": "30 mph"
+      },
+      {
+        "startTime": "2026-10-08T13:00:00-04:00",
+        "shortForecast": "Sunny",
+        "cloudLayers": [],
+        "visibility": {"value": 16093.44, "unitCode": "wmoUnit:m"},
+        "windSpeed": "5 mph"
+      }
+    ]
+  }
+}

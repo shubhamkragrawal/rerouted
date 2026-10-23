@@ -1,0 +1,3 @@
+DATE,HourlyCeilingHeight,HourlyVisibility,HourlyWindSpeed,HourlyPresentWeatherType
+2026-03-14T12:00:00,500,1.0,30,TSRA
+2026-03-14T13:00:00,M,10.0,10,M
